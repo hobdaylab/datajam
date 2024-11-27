@@ -6,8 +6,10 @@ Please push your codes to this git as you develop more features to expand the ca
 
 
 Possible conda environment:
+
 conda create --name datajam python=3.11 numpy pandas matplotlib ipykernel ipywidgets
 
 And then in this environment:
+
 conda activate datajam
 pip install midiutil
