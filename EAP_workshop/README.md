@@ -5,4 +5,5 @@ The 3 files within this direcotry are:
 - The python script that contains important prepared definitions and codes that the main notebook will call (music_def.py)
 - An example of the data that the notebook takes in to generate MIDI as the spectrum of C60 (C60plus.csv)
 
-  Copy them onto your onedrive and open the notebook using CoLab to get started! 
+
+Copy them onto your onedrive and open the notebook using CoLab to get started! 
